@@ -1,0 +1,129 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    
+}
+.main{
+    width: 80%;
+    background: aquamarine;
+    background-position: center;
+}
+.navigation{
+    width: 1200px;
+    height: 75px;
+    height: auto;
+    align-items: center;
+}
+.menu{
+    width: 500px;
+    float: left;
+    height: 70px;
+}
+.title{
+    position: absolute;
+    top: 50%;
+    left:50%;
+}
+ul li a{
+    text-decoration: none;
+    color: aqua;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    border: 2px solid #fff;
+    padding: 5px 20x;
+
+}
+ul{
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ul li{
+    list-style: none;
+    margin: 30px;
+    font-size: 20;
+    display: inline;
+}
+a:hover{
+    color: blue;
+}
+a:visited{
+    color: rgb(182, 64, 198);
+}
+
+.search{
+    width: 400px;
+    float: right;
+    margin-left: 300px;
+    height: 100px;
+}
+.button{
+    width:60px;
+    height: 20px;
+    background: gray;
+    margin-top: auto;
+    font-size: 15px;
+}
+body{
+    background-color:white;
+    font-size: 28;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 0%;
+    margin-left: auto;
+    line-height: 1.6em;
+}
+
+    
+
+.me{
+    size: 100px;
+    padding: 0%;
+    align: left;
+    margin-top: 30px;
+    height: 400px;
+    width: 600px;
+    background: black;
+    display:block;
+    margin-left: auto;
+}
+h1{
+    text-align: center;
+    text-decoration: solid;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: blue;
+    position: center;
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 0%;
+}
+
+
+h2{
+    text-align: center;
+    font-size: 28px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.section{
+    background: rgb(21, 190, 190);
+    text-orientation: initial;
+}
+
+
+.para{
+    font-size: 30px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0%;
+    margin-left: 10%;
+    line-height: 1.6em;
+}
+h3.develop{
+    position: center;
+    align-items: center;
+    color: blue;
+    text-align: center;
+}
+}
+
